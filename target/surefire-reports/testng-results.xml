@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TM-JULY-SELENIUM" duration-ms="16008" started-at="2022-09-16T21:32:23 IST" finished-at="2022-09-16T21:32:39 IST">
+    <groups>
+    </groups>
+    <test name="SMOKE TESTING" duration-ms="16008" started-at="2022-09-16T21:32:23 IST" finished-at="2022-09-16T21:32:39 IST">
+      <class name="com.testcases.TC_55">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.testcases.TC_55@4a3e3e8b]" name="beforeSuite" is-config="true" duration-ms="19213" started-at="2022-09-16T21:32:04 IST" finished-at="2022-09-16T21:32:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="userLogin()[pri:0, instance:com.testcases.TC_55@4a3e3e8b]" name="userLogin" duration-ms="15668" started-at="2022-09-16T21:32:24 IST" finished-at="2022-09-16T21:32:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+      </class> <!-- com.testcases.TC_55 -->
+    </test> <!-- SMOKE TESTING -->
+  </suite> <!-- TM-JULY-SELENIUM -->
+</testng-results>

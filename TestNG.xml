@@ -1,0 +1,17 @@
+<suite name="TM-JULY-SELENIUM" verbose="10">
+<!--    <groups>-->
+<!--        <run>-->
+<!--            <include name="Smoke"/>-->
+<!--        </run>-->
+<!--    </groups>-->
+    <test name="SMOKE TESTING" preserve-order="true" parallel="classes" thread-count="5">
+        <classes>
+            <class name="com.testcases.TC_55"/>
+<!--            <class name="com.annotations.TC_10"/>-->
+<!--            <class name="com.annotations.TC_11"/>-->
+<!--            <class name="com.annotations.TC_12"/>-->
+<!--            <class name="com.annotations.TC_13"/>-->
+        </classes>
+    </test>
+
+</suite>
